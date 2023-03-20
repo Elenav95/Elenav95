@@ -10,4 +10,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/elenavo/elenavo/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/daniel-oliv3/daniel-oliv3/output/github-contribution-grid-snake.svg" alt="SnakeAnimation" />
